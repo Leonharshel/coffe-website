@@ -1,0 +1,2 @@
+# coffe-website
+static type
